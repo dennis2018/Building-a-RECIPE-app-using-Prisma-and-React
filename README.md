@@ -13,3 +13,45 @@ In this tutorial, we will be building a fully functional Recipe app using Prisma
 - Docker fundamentals - don't panic if you have no prior experience, just copy paste the commands and hopefully all goes well :)
 
 # Installation
+
+Clone the repo from GitHub:
+
+```
+git clone https://github.com/dennis2018/Building-a-RECIPE-app-using-Prisma-and-React
+```
+
+Fetch from the develop branch:
+
+```
+git fetch origin develop
+```
+
+Install Prisma cli:
+
+```
+npm install -g prisma
+```
+
+Navigate to the root folder:
+
+```
+cd recipe-app-react-prisma
+```
+
+Install the required packages:
+
+```
+npm install
+```
+
+Navigate to the client folder:
+
+```
+cd client
+```
+
+Install the required packages:
+
+```
+npm install
+```
