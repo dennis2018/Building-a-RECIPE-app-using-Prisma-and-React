@@ -8,6 +8,6 @@ In this tutorial, we will be building a fully functional Recipe app using Prisma
 
 # Prerequisites
 
--- Intermediate knowledge of Javascript and React
--- GraphQL fundamentals
--- Docker fundamentals - don't panic if you have no prior experience, just copy paste the commands and hopefully all goes well :)
+- Intermediate knowledge of Javascript and React
+- GraphQL fundamentals
+- Docker fundamentals - don't panic if you have no prior experience, just copy paste the commands and hopefully all goes well :)
